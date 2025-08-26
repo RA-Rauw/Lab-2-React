@@ -1,0 +1,7 @@
+<script>start("/Users/alejandrosalazar/mi-lab-react/src/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,96,"96 B",1756184703,"8/25/25, 11:05:03 PM");</script>
+<script>addRow("App.css","App.css",0,527,"527 B",1756185105,"8/25/25, 11:11:45 PM");</script>
+<script>addRow("App.jsx","App.jsx",0,2381,"2.3 kB",1756185557,"8/25/25, 11:19:17 PM");</script>
+<script>addRow("index.css","index.css",0,176,"176 B",1756185702,"8/25/25, 11:21:42 PM");</script>
+<script>addRow("main.jsx","main.jsx",0,229,"229 B",1756184703,"8/25/25, 11:05:03 PM");</script>
