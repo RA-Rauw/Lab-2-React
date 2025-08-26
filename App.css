@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #e6f3ff;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.component-box {
+  background-color: white;
+  border: 2px solid #0066cc;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+.title {
+  color: #0066cc;
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: #0066cc;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.text {
+  color: #0066cc;
+  margin: 5px 0;
+}
